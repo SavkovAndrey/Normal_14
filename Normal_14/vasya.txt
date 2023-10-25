@@ -1,0 +1,6 @@
+Name is Vasya
+Experience is 7
+Hourly payment is 10
+Vasya has worked 3700 hours
+Salary is 37000
+Premy is 5550
